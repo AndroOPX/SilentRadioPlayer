@@ -1,9 +1,9 @@
 """
-This Project Under Team-Silent💞 < @SILENT_DEVS >
-Orgination Github Of this TeamSilent < https://github.com/TeamSilentt > Check out
-Creator Or Dev @HYPER_AD13 | @SHINING_OFF <Found On telegram>
-Found on github < https://github.com/HYPER-AD17 >
-©Team Silent™
+This Project Under ANDRO💞 < @AndroCheatsBGMJ >
+Orgination Github Of this TeamSilent < https://github.com/AndroCheatsBGMI > Check out
+Creator Or Dev @ANDRO_OWNER | @AndroCheatsBGMI <Found On telegram>
+Found on github < https://github.com/AndroOpX >
+©Team Andro™
 """
 
 import os
